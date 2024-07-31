@@ -1,0 +1,81 @@
+sexo,grupo_etario,nivel_educativo,conteo,porcentaje
+Hombres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),230,0.7352706115533391
+Hombres,12-17 años,Bachillerato incompleto (1 a 2 años),670,2.141875259742336
+Hombres,12-17 años,Estudios Universitarios completos (4 a 5 años),1,0.0031968287458840833
+Hombres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),14,0.04475560244237716
+Hombres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Hombres,12-17 años,No sabe/No contesta,1,0.0031968287458840833
+Hombres,12-17 años,Primaria completa (6 años),361,1.1540551772641539
+Hombres,12-17 años,Primaria incompleta (1 a 5 años),39,0.12467632108947924
+Hombres,12-17 años,Secundaria completa o equivalente (3 años),730,2.3336849844953806
+Hombres,12-17 años,Secundaria incompleta (1 a 2 años),699,2.2345832933729737
+Hombres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),656,2.097119657299958
+Hombres,18-34 años,Bachillerato incompleto (1 a 2 años),219,0.7001054953486142
+Hombres,18-34 años,Estudios Universitarios completos (4 a 5 años),445,1.422588791918417
+Hombres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),304,0.9718359387487613
+Hombres,18-34 años,Estudios de Posgrado (2 a 4 años),43,0.13746363607301557
+Hombres,18-34 años,No sabe/No contesta,6,0.019180972475304498
+Hombres,18-34 años,Primaria completa (6 años),125,0.39960359323551037
+Hombres,18-34 años,Primaria incompleta (1 a 5 años),39,0.12467632108947924
+Hombres,18-34 años,Secundaria completa o equivalente (3 años),426,1.3618490457466195
+Hombres,18-34 años,Secundaria incompleta (1 a 2 años),126,0.4028004219813945
+Hombres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),871,2.7844378376650365
+Hombres,35-59 años,Bachillerato incompleto (1 a 2 años),372,1.189220293468879
+Hombres,35-59 años,Estudios Universitarios completos (4 a 5 años),738,2.359259614462453
+Hombres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),194,0.6201847767015121
+Hombres,35-59 años,Estudios de Posgrado (2 a 4 años),146,0.4667369968990761
+Hombres,35-59 años,No sabe/No contesta,10,0.03196828745884083
+Hombres,35-59 años,Primaria completa (6 años),559,1.7870272689492026
+Hombres,35-59 años,Primaria incompleta (1 a 5 años),208,0.6649403791438893
+Hombres,35-59 años,Secundaria completa o equivalente (3 años),1095,3.500527476743071
+Hombres,35-59 años,Secundaria incompleta (1 a 2 años),327,1.0453629999040952
+Hombres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),215,0.6873181803650779
+Hombres,60-75 años,Bachillerato incompleto (1 a 2 años),89,0.2845177583836834
+Hombres,60-75 años,Estudios Universitarios completos (4 a 5 años),328,1.048559828649979
+Hombres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),80,0.25574629967072665
+Hombres,60-75 años,Estudios de Posgrado (2 a 4 años),66,0.2109906972283495
+Hombres,60-75 años,No sabe/No contesta,9,0.028771458712956745
+Hombres,60-75 años,Primaria completa (6 años),532,1.7007128928103323
+Hombres,60-75 años,Primaria incompleta (1 a 5 años),361,1.1540551772641539
+Hombres,60-75 años,Secundaria completa o equivalente (3 años),378,1.2084012659441834
+Hombres,60-75 años,Secundaria incompleta (1 a 2 años),112,0.3580448195390173
+Mujeres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),183,0.5850196604967872
+Mujeres,12-17 años,Bachillerato incompleto (1 a 2 años),586,1.8733416450880729
+Mujeres,12-17 años,Estudios Universitarios completos (4 a 5 años),6,0.019180972475304498
+Mujeres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),16,0.05114925993414533
+Mujeres,12-17 años,Estudios de Posgrado (2 a 4 años),1,0.0031968287458840833
+Mujeres,12-17 años,No sabe/No contesta,2,0.006393657491768167
+Mujeres,12-17 años,Primaria completa (6 años),403,1.2883219845912854
+Mujeres,12-17 años,Primaria incompleta (1 a 5 años),43,0.13746363607301557
+Mujeres,12-17 años,Secundaria completa o equivalente (3 años),674,2.154662574725872
+Mujeres,12-17 años,Secundaria incompleta (1 a 2 años),635,2.029986253636393
+Mujeres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),1326,4.2389949170422945
+Mujeres,18-34 años,Bachillerato incompleto (1 a 2 años),383,1.2243854096736038
+Mujeres,18-34 años,Estudios Universitarios completos (4 a 5 años),735,2.349669128224801
+Mujeres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),377,1.2052044371982993
+Mujeres,18-34 años,Estudios de Posgrado (2 a 4 años),56,0.17902240976950864
+Mujeres,18-34 años,No sabe/No contesta,6,0.019180972475304498
+Mujeres,18-34 años,Primaria completa (6 años),275,0.8791279051181229
+Mujeres,18-34 años,Primaria incompleta (1 a 5 años),78,0.24935264217895847
+Mujeres,18-34 años,Secundaria completa o equivalente (3 años),1190,3.8042262076020585
+Mujeres,18-34 años,Secundaria incompleta (1 a 2 años),229,0.7320737828074549
+Mujeres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),1680,5.370672293085259
+Mujeres,35-59 años,Bachillerato incompleto (1 a 2 años),557,1.7806336114574342
+Mujeres,35-59 años,Estudios Universitarios completos (4 a 5 años),1123,3.590038681627825
+Mujeres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),285,0.9110961925769637
+Mujeres,35-59 años,Estudios de Posgrado (2 a 4 años),189,0.6042006329720917
+Mujeres,35-59 años,No sabe/No contesta,7,0.02237780122118858
+Mujeres,35-59 años,Primaria completa (6 años),1339,4.280553690738787
+Mujeres,35-59 años,Primaria incompleta (1 a 5 años),485,1.5504619417537802
+Mujeres,35-59 años,Secundaria completa o equivalente (3 años),2781,8.890380742303634
+Mujeres,35-59 años,Secundaria incompleta (1 a 2 años),512,1.6367763178926507
+Mujeres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),326,1.042166171158211
+Mujeres,60-75 años,Bachillerato incompleto (1 a 2 años),97,0.31009238835075603
+Mujeres,60-75 años,Estudios Universitarios completos (4 a 5 años),302,0.965442281256993
+Mujeres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),68,0.21738435472011763
+Mujeres,60-75 años,Estudios de Posgrado (2 a 4 años),46,0.14705412231066783
+Mujeres,60-75 años,No sabe/No contesta,17,0.05434608868002941
+Mujeres,60-75 años,Primaria completa (6 años),899,2.873949042549791
+Mujeres,60-75 años,Primaria incompleta (1 a 5 años),715,2.285732553307119
+Mujeres,60-75 años,Secundaria completa o equivalente (3 años),636,2.0331830823822767
+Mujeres,60-75 años,Secundaria incompleta (1 a 2 años),189,0.6042006329720917

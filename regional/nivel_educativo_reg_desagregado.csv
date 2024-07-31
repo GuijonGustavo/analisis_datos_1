@@ -1,0 +1,641 @@
+region,sexo,grupo_etario,nivel_educativo,conteo,porcentaje
+CDMX,Hombres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),11,13.095238095238097
+CDMX,Hombres,12-17 años,Bachillerato incompleto (1 a 2 años),17,20.238095238095237
+CDMX,Hombres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+CDMX,Hombres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),0,0.0
+CDMX,Hombres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+CDMX,Hombres,12-17 años,No sabe/No contesta,0,0.0
+CDMX,Hombres,12-17 años,Primaria completa (6 años),7,8.333333333333332
+CDMX,Hombres,12-17 años,Primaria incompleta (1 a 5 años),0,0.0
+CDMX,Hombres,12-17 años,Secundaria completa o equivalente (3 años),33,39.285714285714285
+CDMX,Hombres,12-17 años,Secundaria incompleta (1 a 2 años),16,19.047619047619047
+CDMX,Hombres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),35,28.455284552845526
+CDMX,Hombres,18-34 años,Bachillerato incompleto (1 a 2 años),13,10.569105691056912
+CDMX,Hombres,18-34 años,Estudios Universitarios completos (4 a 5 años),30,24.390243902439025
+CDMX,Hombres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),22,17.88617886178862
+CDMX,Hombres,18-34 años,Estudios de Posgrado (2 a 4 años),2,1.6260162601626018
+CDMX,Hombres,18-34 años,No sabe/No contesta,0,0.0
+CDMX,Hombres,18-34 años,Primaria completa (6 años),3,2.4390243902439024
+CDMX,Hombres,18-34 años,Primaria incompleta (1 a 5 años),0,0.0
+CDMX,Hombres,18-34 años,Secundaria completa o equivalente (3 años),14,11.38211382113821
+CDMX,Hombres,18-34 años,Secundaria incompleta (1 a 2 años),4,3.2520325203252036
+CDMX,Hombres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),41,21.693121693121693
+CDMX,Hombres,35-59 años,Bachillerato incompleto (1 a 2 años),21,11.11111111111111
+CDMX,Hombres,35-59 años,Estudios Universitarios completos (4 a 5 años),37,19.576719576719576
+CDMX,Hombres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),17,8.994708994708994
+CDMX,Hombres,35-59 años,Estudios de Posgrado (2 a 4 años),7,3.7037037037037033
+CDMX,Hombres,35-59 años,No sabe/No contesta,0,0.0
+CDMX,Hombres,35-59 años,Primaria completa (6 años),9,4.761904761904762
+CDMX,Hombres,35-59 años,Primaria incompleta (1 a 5 años),3,1.5873015873015872
+CDMX,Hombres,35-59 años,Secundaria completa o equivalente (3 años),49,25.925925925925924
+CDMX,Hombres,35-59 años,Secundaria incompleta (1 a 2 años),5,2.6455026455026456
+CDMX,Hombres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),16,11.347517730496454
+CDMX,Hombres,60-75 años,Bachillerato incompleto (1 a 2 años),8,5.673758865248227
+CDMX,Hombres,60-75 años,Estudios Universitarios completos (4 a 5 años),32,22.69503546099291
+CDMX,Hombres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),6,4.25531914893617
+CDMX,Hombres,60-75 años,Estudios de Posgrado (2 a 4 años),12,8.51063829787234
+CDMX,Hombres,60-75 años,No sabe/No contesta,0,0.0
+CDMX,Hombres,60-75 años,Primaria completa (6 años),21,14.893617021276595
+CDMX,Hombres,60-75 años,Primaria incompleta (1 a 5 años),9,6.382978723404255
+CDMX,Hombres,60-75 años,Secundaria completa o equivalente (3 años),29,20.56737588652482
+CDMX,Hombres,60-75 años,Secundaria incompleta (1 a 2 años),8,5.673758865248227
+CDMX,Mujeres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),3,6.122448979591836
+CDMX,Mujeres,12-17 años,Bachillerato incompleto (1 a 2 años),7,14.285714285714285
+CDMX,Mujeres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+CDMX,Mujeres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),0,0.0
+CDMX,Mujeres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+CDMX,Mujeres,12-17 años,No sabe/No contesta,0,0.0
+CDMX,Mujeres,12-17 años,Primaria completa (6 años),7,14.285714285714285
+CDMX,Mujeres,12-17 años,Primaria incompleta (1 a 5 años),0,0.0
+CDMX,Mujeres,12-17 años,Secundaria completa o equivalente (3 años),16,32.6530612244898
+CDMX,Mujeres,12-17 años,Secundaria incompleta (1 a 2 años),16,32.6530612244898
+CDMX,Mujeres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),48,39.02439024390244
+CDMX,Mujeres,18-34 años,Bachillerato incompleto (1 a 2 años),11,8.94308943089431
+CDMX,Mujeres,18-34 años,Estudios Universitarios completos (4 a 5 años),24,19.51219512195122
+CDMX,Mujeres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),11,8.94308943089431
+CDMX,Mujeres,18-34 años,Estudios de Posgrado (2 a 4 años),5,4.0650406504065035
+CDMX,Mujeres,18-34 años,No sabe/No contesta,0,0.0
+CDMX,Mujeres,18-34 años,Primaria completa (6 años),1,0.8130081300813009
+CDMX,Mujeres,18-34 años,Primaria incompleta (1 a 5 años),1,0.8130081300813009
+CDMX,Mujeres,18-34 años,Secundaria completa o equivalente (3 años),19,15.447154471544716
+CDMX,Mujeres,18-34 años,Secundaria incompleta (1 a 2 años),3,2.4390243902439024
+CDMX,Mujeres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),81,25.961538461538463
+CDMX,Mujeres,35-59 años,Bachillerato incompleto (1 a 2 años),26,8.333333333333332
+CDMX,Mujeres,35-59 años,Estudios Universitarios completos (4 a 5 años),66,21.153846153846153
+CDMX,Mujeres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),14,4.487179487179487
+CDMX,Mujeres,35-59 años,Estudios de Posgrado (2 a 4 años),21,6.730769230769231
+CDMX,Mujeres,35-59 años,No sabe/No contesta,0,0.0
+CDMX,Mujeres,35-59 años,Primaria completa (6 años),31,9.935897435897436
+CDMX,Mujeres,35-59 años,Primaria incompleta (1 a 5 años),11,3.5256410256410255
+CDMX,Mujeres,35-59 años,Secundaria completa o equivalente (3 años),52,16.666666666666664
+CDMX,Mujeres,35-59 años,Secundaria incompleta (1 a 2 años),10,3.205128205128205
+CDMX,Mujeres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),31,17.415730337078653
+CDMX,Mujeres,60-75 años,Bachillerato incompleto (1 a 2 años),8,4.49438202247191
+CDMX,Mujeres,60-75 años,Estudios Universitarios completos (4 a 5 años),25,14.04494382022472
+CDMX,Mujeres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),8,4.49438202247191
+CDMX,Mujeres,60-75 años,Estudios de Posgrado (2 a 4 años),6,3.3707865168539324
+CDMX,Mujeres,60-75 años,No sabe/No contesta,2,1.1235955056179776
+CDMX,Mujeres,60-75 años,Primaria completa (6 años),32,17.97752808988764
+CDMX,Mujeres,60-75 años,Primaria incompleta (1 a 5 años),21,11.797752808988763
+CDMX,Mujeres,60-75 años,Secundaria completa o equivalente (3 años),35,19.662921348314608
+CDMX,Mujeres,60-75 años,Secundaria incompleta (1 a 2 años),10,5.617977528089887
+Centro,Hombres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),41,6.810631229235881
+Centro,Hombres,12-17 años,Bachillerato incompleto (1 a 2 años),137,22.757475083056477
+Centro,Hombres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+Centro,Hombres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),3,0.4983388704318937
+Centro,Hombres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Centro,Hombres,12-17 años,No sabe/No contesta,0,0.0
+Centro,Hombres,12-17 años,Primaria completa (6 años),69,11.461794019933555
+Centro,Hombres,12-17 años,Primaria incompleta (1 a 5 años),8,1.3289036544850499
+Centro,Hombres,12-17 años,Secundaria completa o equivalente (3 años),154,25.581395348837212
+Centro,Hombres,12-17 años,Secundaria incompleta (1 a 2 años),190,31.561461794019934
+Centro,Hombres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),126,24.045801526717558
+Centro,Hombres,18-34 años,Bachillerato incompleto (1 a 2 años),52,9.923664122137405
+Centro,Hombres,18-34 años,Estudios Universitarios completos (4 a 5 años),113,21.564885496183205
+Centro,Hombres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),76,14.50381679389313
+Centro,Hombres,18-34 años,Estudios de Posgrado (2 a 4 años),8,1.5267175572519083
+Centro,Hombres,18-34 años,No sabe/No contesta,1,0.19083969465648853
+Centro,Hombres,18-34 años,Primaria completa (6 años),19,3.6259541984732824
+Centro,Hombres,18-34 años,Primaria incompleta (1 a 5 años),8,1.5267175572519083
+Centro,Hombres,18-34 años,Secundaria completa o equivalente (3 años),97,18.51145038167939
+Centro,Hombres,18-34 años,Secundaria incompleta (1 a 2 años),24,4.580152671755725
+Centro,Hombres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),171,18.288770053475936
+Centro,Hombres,35-59 años,Bachillerato incompleto (1 a 2 años),66,7.0588235294117645
+Centro,Hombres,35-59 años,Estudios Universitarios completos (4 a 5 años),153,16.363636363636363
+Centro,Hombres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),42,4.491978609625669
+Centro,Hombres,35-59 años,Estudios de Posgrado (2 a 4 años),28,2.9946524064171123
+Centro,Hombres,35-59 años,No sabe/No contesta,2,0.21390374331550802
+Centro,Hombres,35-59 años,Primaria completa (6 años),125,13.368983957219251
+Centro,Hombres,35-59 años,Primaria incompleta (1 a 5 años),48,5.133689839572193
+Centro,Hombres,35-59 años,Secundaria completa o equivalente (3 años),240,25.668449197860966
+Centro,Hombres,35-59 años,Secundaria incompleta (1 a 2 años),60,6.417112299465241
+Centro,Hombres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),45,9.554140127388536
+Centro,Hombres,60-75 años,Bachillerato incompleto (1 a 2 años),16,3.397027600849257
+Centro,Hombres,60-75 años,Estudios Universitarios completos (4 a 5 años),68,14.437367303609342
+Centro,Hombres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),16,3.397027600849257
+Centro,Hombres,60-75 años,Estudios de Posgrado (2 a 4 años),12,2.547770700636943
+Centro,Hombres,60-75 años,No sabe/No contesta,2,0.42462845010615713
+Centro,Hombres,60-75 años,Primaria completa (6 años),126,26.751592356687897
+Centro,Hombres,60-75 años,Primaria incompleta (1 a 5 años),75,15.92356687898089
+Centro,Hombres,60-75 años,Secundaria completa o equivalente (3 años),87,18.471337579617835
+Centro,Hombres,60-75 años,Secundaria incompleta (1 a 2 años),24,5.095541401273886
+Centro,Mujeres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),29,5.114638447971781
+Centro,Mujeres,12-17 años,Bachillerato incompleto (1 a 2 años),132,23.28042328042328
+Centro,Mujeres,12-17 años,Estudios Universitarios completos (4 a 5 años),2,0.3527336860670194
+Centro,Mujeres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),4,0.7054673721340388
+Centro,Mujeres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Centro,Mujeres,12-17 años,No sabe/No contesta,1,0.1763668430335097
+Centro,Mujeres,12-17 años,Primaria completa (6 años),93,16.402116402116402
+Centro,Mujeres,12-17 años,Primaria incompleta (1 a 5 años),10,1.763668430335097
+Centro,Mujeres,12-17 años,Secundaria completa o equivalente (3 años),150,26.455026455026452
+Centro,Mujeres,12-17 años,Secundaria incompleta (1 a 2 años),146,25.749559082892414
+Centro,Mujeres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),344,27.78675282714055
+Centro,Mujeres,18-34 años,Bachillerato incompleto (1 a 2 años),98,7.915993537964459
+Centro,Mujeres,18-34 años,Estudios Universitarios completos (4 a 5 años),216,17.447495961227787
+Centro,Mujeres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),91,7.350565428109855
+Centro,Mujeres,18-34 años,Estudios de Posgrado (2 a 4 años),10,0.8077544426494345
+Centro,Mujeres,18-34 años,No sabe/No contesta,2,0.16155088852988692
+Centro,Mujeres,18-34 años,Primaria completa (6 años),75,6.058158319870759
+Centro,Mujeres,18-34 años,Primaria incompleta (1 a 5 años),14,1.1308562197092082
+Centro,Mujeres,18-34 años,Secundaria completa o equivalente (3 años),339,27.382875605815833
+Centro,Mujeres,18-34 años,Secundaria incompleta (1 a 2 años),49,3.9579967689822295
+Centro,Mujeres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),354,16.588566073102157
+Centro,Mujeres,35-59 años,Bachillerato incompleto (1 a 2 años),107,5.0140581068416115
+Centro,Mujeres,35-59 años,Estudios Universitarios completos (4 a 5 años),235,11.012183692596064
+Centro,Mujeres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),63,2.9522024367385193
+Centro,Mujeres,35-59 años,Estudios de Posgrado (2 a 4 años),36,1.6869728209934396
+Centro,Mujeres,35-59 años,No sabe/No contesta,2,0.09372071227741331
+Centro,Mujeres,35-59 años,Primaria completa (6 años),388,18.181818181818183
+Centro,Mujeres,35-59 años,Primaria incompleta (1 a 5 años),116,5.435801312089971
+Centro,Mujeres,35-59 años,Secundaria completa o equivalente (3 años),725,33.97375820056233
+Centro,Mujeres,35-59 años,Secundaria incompleta (1 a 2 años),108,5.060918462980318
+Centro,Mujeres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),71,9.820193637621024
+Centro,Mujeres,60-75 años,Bachillerato incompleto (1 a 2 años),23,3.18118948824343
+Centro,Mujeres,60-75 años,Estudios Universitarios completos (4 a 5 años),71,9.820193637621024
+Centro,Mujeres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),12,1.6597510373443984
+Centro,Mujeres,60-75 años,Estudios de Posgrado (2 a 4 años),6,0.8298755186721992
+Centro,Mujeres,60-75 años,No sabe/No contesta,5,0.6915629322268326
+Centro,Mujeres,60-75 años,Primaria completa (6 años),202,27.93914246196404
+Centro,Mujeres,60-75 años,Primaria incompleta (1 a 5 años),142,19.64038727524205
+Centro,Mujeres,60-75 años,Secundaria completa o equivalente (3 años),151,20.885200553250346
+Centro,Mujeres,60-75 años,Secundaria incompleta (1 a 2 años),40,5.532503457814661
+Centro Norte,Hombres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),24,5.825242718446602
+Centro Norte,Hombres,12-17 años,Bachillerato incompleto (1 a 2 años),110,26.699029126213592
+Centro Norte,Hombres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+Centro Norte,Hombres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),2,0.48543689320388345
+Centro Norte,Hombres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Centro Norte,Hombres,12-17 años,No sabe/No contesta,1,0.24271844660194172
+Centro Norte,Hombres,12-17 años,Primaria completa (6 años),49,11.893203883495145
+Centro Norte,Hombres,12-17 años,Primaria incompleta (1 a 5 años),5,1.2135922330097086
+Centro Norte,Hombres,12-17 años,Secundaria completa o equivalente (3 años),132,32.038834951456316
+Centro Norte,Hombres,12-17 años,Secundaria incompleta (1 a 2 años),89,21.601941747572813
+Centro Norte,Hombres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),140,29.411764705882355
+Centro Norte,Hombres,18-34 años,Bachillerato incompleto (1 a 2 años),47,9.873949579831933
+Centro Norte,Hombres,18-34 años,Estudios Universitarios completos (4 a 5 años),84,17.647058823529413
+Centro Norte,Hombres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),56,11.76470588235294
+Centro Norte,Hombres,18-34 años,Estudios de Posgrado (2 a 4 años),5,1.050420168067227
+Centro Norte,Hombres,18-34 años,No sabe/No contesta,2,0.42016806722689076
+Centro Norte,Hombres,18-34 años,Primaria completa (6 años),28,5.88235294117647
+Centro Norte,Hombres,18-34 años,Primaria incompleta (1 a 5 años),5,1.050420168067227
+Centro Norte,Hombres,18-34 años,Secundaria completa o equivalente (3 años),89,18.69747899159664
+Centro Norte,Hombres,18-34 años,Secundaria incompleta (1 a 2 años),20,4.201680672268908
+Centro Norte,Hombres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),127,16.28205128205128
+Centro Norte,Hombres,35-59 años,Bachillerato incompleto (1 a 2 años),66,8.461538461538462
+Centro Norte,Hombres,35-59 años,Estudios Universitarios completos (4 a 5 años),115,14.743589743589745
+Centro Norte,Hombres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),34,4.358974358974359
+Centro Norte,Hombres,35-59 años,Estudios de Posgrado (2 a 4 años),28,3.5897435897435894
+Centro Norte,Hombres,35-59 años,No sabe/No contesta,2,0.2564102564102564
+Centro Norte,Hombres,35-59 años,Primaria completa (6 años),99,12.692307692307692
+Centro Norte,Hombres,35-59 años,Primaria incompleta (1 a 5 años),34,4.358974358974359
+Centro Norte,Hombres,35-59 años,Secundaria completa o equivalente (3 años),220,28.205128205128204
+Centro Norte,Hombres,35-59 años,Secundaria incompleta (1 a 2 años),55,7.051282051282051
+Centro Norte,Hombres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),45,11.74934725848564
+Centro Norte,Hombres,60-75 años,Bachillerato incompleto (1 a 2 años),9,2.3498694516971277
+Centro Norte,Hombres,60-75 años,Estudios Universitarios completos (4 a 5 años),53,13.838120104438643
+Centro Norte,Hombres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),15,3.91644908616188
+Centro Norte,Hombres,60-75 años,Estudios de Posgrado (2 a 4 años),13,3.3942558746736298
+Centro Norte,Hombres,60-75 años,No sabe/No contesta,3,0.7832898172323759
+Centro Norte,Hombres,60-75 años,Primaria completa (6 años),98,25.587467362924283
+Centro Norte,Hombres,60-75 años,Primaria incompleta (1 a 5 años),68,17.75456919060052
+Centro Norte,Hombres,60-75 años,Secundaria completa o equivalente (3 años),59,15.404699738903393
+Centro Norte,Hombres,60-75 años,Secundaria incompleta (1 a 2 años),20,5.221932114882506
+Centro Norte,Mujeres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),25,6.157635467980295
+Centro Norte,Mujeres,12-17 años,Bachillerato incompleto (1 a 2 años),91,22.413793103448278
+Centro Norte,Mujeres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+Centro Norte,Mujeres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),0,0.0
+Centro Norte,Mujeres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Centro Norte,Mujeres,12-17 años,No sabe/No contesta,0,0.0
+Centro Norte,Mujeres,12-17 años,Primaria completa (6 años),63,15.517241379310345
+Centro Norte,Mujeres,12-17 años,Primaria incompleta (1 a 5 años),3,0.7389162561576355
+Centro Norte,Mujeres,12-17 años,Secundaria completa o equivalente (3 años),128,31.527093596059114
+Centro Norte,Mujeres,12-17 años,Secundaria incompleta (1 a 2 años),96,23.645320197044335
+Centro Norte,Mujeres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),273,32.461355529131986
+Centro Norte,Mujeres,18-34 años,Bachillerato incompleto (1 a 2 años),64,7.609988109393578
+Centro Norte,Mujeres,18-34 años,Estudios Universitarios completos (4 a 5 años),135,16.05231866825208
+Centro Norte,Mujeres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),66,7.8478002378121285
+Centro Norte,Mujeres,18-34 años,Estudios de Posgrado (2 a 4 años),18,2.140309155766944
+Centro Norte,Mujeres,18-34 años,No sabe/No contesta,4,0.47562425683709864
+Centro Norte,Mujeres,18-34 años,Primaria completa (6 años),24,2.853745541022592
+Centro Norte,Mujeres,18-34 años,Primaria incompleta (1 a 5 años),9,1.070154577883472
+Centro Norte,Mujeres,18-34 años,Secundaria completa o equivalente (3 años),215,25.564803804994057
+Centro Norte,Mujeres,18-34 años,Secundaria incompleta (1 a 2 años),33,3.9239001189060643
+Centro Norte,Mujeres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),263,17.903335602450646
+Centro Norte,Mujeres,35-59 años,Bachillerato incompleto (1 a 2 años),94,6.398910823689585
+Centro Norte,Mujeres,35-59 años,Estudios Universitarios completos (4 a 5 años),189,12.865895166780122
+Centro Norte,Mujeres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),47,3.1994554118447924
+Centro Norte,Mujeres,35-59 años,Estudios de Posgrado (2 a 4 años),43,2.9271613342409806
+Centro Norte,Mujeres,35-59 años,No sabe/No contesta,0,0.0
+Centro Norte,Mujeres,35-59 años,Primaria completa (6 años),208,14.15929203539823
+Centro Norte,Mujeres,35-59 años,Primaria incompleta (1 a 5 años),59,4.016337644656229
+Centro Norte,Mujeres,35-59 años,Secundaria completa o equivalente (3 años),483,32.879509870660314
+Centro Norte,Mujeres,35-59 años,Secundaria incompleta (1 a 2 años),83,5.650102110279102
+Centro Norte,Mujeres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),53,9.265734265734265
+Centro Norte,Mujeres,60-75 años,Bachillerato incompleto (1 a 2 años),16,2.797202797202797
+Centro Norte,Mujeres,60-75 años,Estudios Universitarios completos (4 a 5 años),50,8.741258741258742
+Centro Norte,Mujeres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),4,0.6993006993006993
+Centro Norte,Mujeres,60-75 años,Estudios de Posgrado (2 a 4 años),15,2.6223776223776225
+Centro Norte,Mujeres,60-75 años,No sabe/No contesta,5,0.8741258741258742
+Centro Norte,Mujeres,60-75 años,Primaria completa (6 años),166,29.02097902097902
+Centro Norte,Mujeres,60-75 años,Primaria incompleta (1 a 5 años),141,24.65034965034965
+Centro Norte,Mujeres,60-75 años,Secundaria completa o equivalente (3 años),92,16.083916083916083
+Centro Norte,Mujeres,60-75 años,Secundaria incompleta (1 a 2 años),30,5.244755244755245
+Centro Sur,Hombres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),25,7.0821529745042495
+Centro Sur,Hombres,12-17 años,Bachillerato incompleto (1 a 2 años),93,26.345609065155806
+Centro Sur,Hombres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+Centro Sur,Hombres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),1,0.28328611898017
+Centro Sur,Hombres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Centro Sur,Hombres,12-17 años,No sabe/No contesta,0,0.0
+Centro Sur,Hombres,12-17 años,Primaria completa (6 años),52,14.730878186968837
+Centro Sur,Hombres,12-17 años,Primaria incompleta (1 a 5 años),10,2.8328611898017
+Centro Sur,Hombres,12-17 años,Secundaria completa o equivalente (3 años),88,24.929178470254957
+Centro Sur,Hombres,12-17 años,Secundaria incompleta (1 a 2 años),84,23.79603399433428
+Centro Sur,Hombres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),75,27.573529411764707
+Centro Sur,Hombres,18-34 años,Bachillerato incompleto (1 a 2 años),24,8.823529411764707
+Centro Sur,Hombres,18-34 años,Estudios Universitarios completos (4 a 5 años),35,12.867647058823529
+Centro Sur,Hombres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),27,9.926470588235293
+Centro Sur,Hombres,18-34 años,Estudios de Posgrado (2 a 4 años),4,1.4705882352941175
+Centro Sur,Hombres,18-34 años,No sabe/No contesta,0,0.0
+Centro Sur,Hombres,18-34 años,Primaria completa (6 años),22,8.088235294117647
+Centro Sur,Hombres,18-34 años,Primaria incompleta (1 a 5 años),8,2.941176470588235
+Centro Sur,Hombres,18-34 años,Secundaria completa o equivalente (3 años),49,18.014705882352942
+Centro Sur,Hombres,18-34 años,Secundaria incompleta (1 a 2 años),28,10.294117647058822
+Centro Sur,Hombres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),74,15.879828326180256
+Centro Sur,Hombres,35-59 años,Bachillerato incompleto (1 a 2 años),42,9.012875536480687
+Centro Sur,Hombres,35-59 años,Estudios Universitarios completos (4 a 5 años),45,9.656652360515022
+Centro Sur,Hombres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),18,3.862660944206009
+Centro Sur,Hombres,35-59 años,Estudios de Posgrado (2 a 4 años),16,3.4334763948497855
+Centro Sur,Hombres,35-59 años,No sabe/No contesta,0,0.0
+Centro Sur,Hombres,35-59 años,Primaria completa (6 años),88,18.88412017167382
+Centro Sur,Hombres,35-59 años,Primaria incompleta (1 a 5 años),32,6.866952789699571
+Centro Sur,Hombres,35-59 años,Secundaria completa o equivalente (3 años),107,22.96137339055794
+Centro Sur,Hombres,35-59 años,Secundaria incompleta (1 a 2 años),44,9.44206008583691
+Centro Sur,Hombres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),16,8.24742268041237
+Centro Sur,Hombres,60-75 años,Bachillerato incompleto (1 a 2 años),7,3.608247422680412
+Centro Sur,Hombres,60-75 años,Estudios Universitarios completos (4 a 5 años),32,16.49484536082474
+Centro Sur,Hombres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),6,3.0927835051546393
+Centro Sur,Hombres,60-75 años,Estudios de Posgrado (2 a 4 años),5,2.5773195876288657
+Centro Sur,Hombres,60-75 años,No sabe/No contesta,1,0.5154639175257731
+Centro Sur,Hombres,60-75 años,Primaria completa (6 años),52,26.804123711340207
+Centro Sur,Hombres,60-75 años,Primaria incompleta (1 a 5 años),46,23.711340206185564
+Centro Sur,Hombres,60-75 años,Secundaria completa o equivalente (3 años),20,10.309278350515463
+Centro Sur,Hombres,60-75 años,Secundaria incompleta (1 a 2 años),9,4.639175257731959
+Centro Sur,Mujeres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),22,5.898123324396782
+Centro Sur,Mujeres,12-17 años,Bachillerato incompleto (1 a 2 años),92,24.664879356568363
+Centro Sur,Mujeres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+Centro Sur,Mujeres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),1,0.2680965147453083
+Centro Sur,Mujeres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Centro Sur,Mujeres,12-17 años,No sabe/No contesta,0,0.0
+Centro Sur,Mujeres,12-17 años,Primaria completa (6 años),57,15.281501340482572
+Centro Sur,Mujeres,12-17 años,Primaria incompleta (1 a 5 años),10,2.680965147453083
+Centro Sur,Mujeres,12-17 años,Secundaria completa o equivalente (3 años),94,25.201072386058982
+Centro Sur,Mujeres,12-17 años,Secundaria incompleta (1 a 2 años),97,26.005361930294907
+Centro Sur,Mujeres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),151,26.49122807017544
+Centro Sur,Mujeres,18-34 años,Bachillerato incompleto (1 a 2 años),64,11.228070175438596
+Centro Sur,Mujeres,18-34 años,Estudios Universitarios completos (4 a 5 años),65,11.403508771929824
+Centro Sur,Mujeres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),47,8.24561403508772
+Centro Sur,Mujeres,18-34 años,Estudios de Posgrado (2 a 4 años),4,0.7017543859649122
+Centro Sur,Mujeres,18-34 años,No sabe/No contesta,0,0.0
+Centro Sur,Mujeres,18-34 años,Primaria completa (6 años),46,8.070175438596491
+Centro Sur,Mujeres,18-34 años,Primaria incompleta (1 a 5 años),18,3.1578947368421053
+Centro Sur,Mujeres,18-34 años,Secundaria completa o equivalente (3 años),135,23.684210526315788
+Centro Sur,Mujeres,18-34 años,Secundaria incompleta (1 a 2 años),40,7.017543859649122
+Centro Sur,Mujeres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),154,15.323383084577113
+Centro Sur,Mujeres,35-59 años,Bachillerato incompleto (1 a 2 años),49,4.875621890547264
+Centro Sur,Mujeres,35-59 años,Estudios Universitarios completos (4 a 5 años),103,10.248756218905472
+Centro Sur,Mujeres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),19,1.8905472636815919
+Centro Sur,Mujeres,35-59 años,Estudios de Posgrado (2 a 4 años),12,1.1940298507462688
+Centro Sur,Mujeres,35-59 años,No sabe/No contesta,1,0.09950248756218905
+Centro Sur,Mujeres,35-59 años,Primaria completa (6 años),192,19.1044776119403
+Centro Sur,Mujeres,35-59 años,Primaria incompleta (1 a 5 años),106,10.547263681592039
+Centro Sur,Mujeres,35-59 años,Secundaria completa o equivalente (3 años),298,29.65174129353234
+Centro Sur,Mujeres,35-59 años,Secundaria incompleta (1 a 2 años),71,7.064676616915423
+Centro Sur,Mujeres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),23,6.515580736543909
+Centro Sur,Mujeres,60-75 años,Bachillerato incompleto (1 a 2 años),5,1.41643059490085
+Centro Sur,Mujeres,60-75 años,Estudios Universitarios completos (4 a 5 años),30,8.498583569405099
+Centro Sur,Mujeres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),11,3.1161473087818696
+Centro Sur,Mujeres,60-75 años,Estudios de Posgrado (2 a 4 años),1,0.28328611898017
+Centro Sur,Mujeres,60-75 años,No sabe/No contesta,1,0.28328611898017
+Centro Sur,Mujeres,60-75 años,Primaria completa (6 años),85,24.07932011331445
+Centro Sur,Mujeres,60-75 años,Primaria incompleta (1 a 5 años),123,34.844192634560905
+Centro Sur,Mujeres,60-75 años,Secundaria completa o equivalente (3 años),51,14.44759206798867
+Centro Sur,Mujeres,60-75 años,Secundaria incompleta (1 a 2 años),23,6.515580736543909
+Noroccidental,Hombres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),55,10.638297872340425
+Noroccidental,Hombres,12-17 años,Bachillerato incompleto (1 a 2 años),135,26.11218568665377
+Noroccidental,Hombres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+Noroccidental,Hombres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),5,0.9671179883945842
+Noroccidental,Hombres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Noroccidental,Hombres,12-17 años,No sabe/No contesta,0,0.0
+Noroccidental,Hombres,12-17 años,Primaria completa (6 años),60,11.60541586073501
+Noroccidental,Hombres,12-17 años,Primaria incompleta (1 a 5 años),6,1.160541586073501
+Noroccidental,Hombres,12-17 años,Secundaria completa o equivalente (3 años),117,22.63056092843327
+Noroccidental,Hombres,12-17 años,Secundaria incompleta (1 a 2 años),139,26.88588007736944
+Noroccidental,Hombres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),81,25.3125
+Noroccidental,Hombres,18-34 años,Bachillerato incompleto (1 a 2 años),33,10.3125
+Noroccidental,Hombres,18-34 años,Estudios Universitarios completos (4 a 5 años),70,21.875
+Noroccidental,Hombres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),37,11.5625
+Noroccidental,Hombres,18-34 años,Estudios de Posgrado (2 a 4 años),13,4.0625
+Noroccidental,Hombres,18-34 años,No sabe/No contesta,1,0.3125
+Noroccidental,Hombres,18-34 años,Primaria completa (6 años),13,4.0625
+Noroccidental,Hombres,18-34 años,Primaria incompleta (1 a 5 años),3,0.9375
+Noroccidental,Hombres,18-34 años,Secundaria completa o equivalente (3 años),54,16.875
+Noroccidental,Hombres,18-34 años,Secundaria incompleta (1 a 2 años),15,4.6875
+Noroccidental,Hombres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),130,19.637462235649547
+Noroccidental,Hombres,35-59 años,Bachillerato incompleto (1 a 2 años),81,12.235649546827794
+Noroccidental,Hombres,35-59 años,Estudios Universitarios completos (4 a 5 años),115,17.371601208459214
+Noroccidental,Hombres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),31,4.682779456193353
+Noroccidental,Hombres,35-59 años,Estudios de Posgrado (2 a 4 años),17,2.56797583081571
+Noroccidental,Hombres,35-59 años,No sabe/No contesta,3,0.4531722054380665
+Noroccidental,Hombres,35-59 años,Primaria completa (6 años),51,7.7039274924471295
+Noroccidental,Hombres,35-59 años,Primaria incompleta (1 a 5 años),27,4.078549848942599
+Noroccidental,Hombres,35-59 años,Secundaria completa o equivalente (3 años),146,22.054380664652566
+Noroccidental,Hombres,35-59 años,Secundaria incompleta (1 a 2 años),61,9.214501510574017
+Noroccidental,Hombres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),29,9.090909090909092
+Noroccidental,Hombres,60-75 años,Bachillerato incompleto (1 a 2 años),25,7.836990595611286
+Noroccidental,Hombres,60-75 años,Estudios Universitarios completos (4 a 5 años),45,14.106583072100312
+Noroccidental,Hombres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),14,4.38871473354232
+Noroccidental,Hombres,60-75 años,Estudios de Posgrado (2 a 4 años),8,2.507836990595611
+Noroccidental,Hombres,60-75 años,No sabe/No contesta,1,0.3134796238244514
+Noroccidental,Hombres,60-75 años,Primaria completa (6 años),78,24.45141065830721
+Noroccidental,Hombres,60-75 años,Primaria incompleta (1 a 5 años),40,12.539184952978054
+Noroccidental,Hombres,60-75 años,Secundaria completa o equivalente (3 años),51,15.987460815047022
+Noroccidental,Hombres,60-75 años,Secundaria incompleta (1 a 2 años),28,8.77742946708464
+Noroccidental,Mujeres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),35,8.641975308641975
+Noroccidental,Mujeres,12-17 años,Bachillerato incompleto (1 a 2 años),108,26.666666666666668
+Noroccidental,Mujeres,12-17 años,Estudios Universitarios completos (4 a 5 años),2,0.49382716049382713
+Noroccidental,Mujeres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),4,0.9876543209876543
+Noroccidental,Mujeres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Noroccidental,Mujeres,12-17 años,No sabe/No contesta,0,0.0
+Noroccidental,Mujeres,12-17 años,Primaria completa (6 años),49,12.098765432098766
+Noroccidental,Mujeres,12-17 años,Primaria incompleta (1 a 5 años),7,1.728395061728395
+Noroccidental,Mujeres,12-17 años,Secundaria completa o equivalente (3 años),85,20.98765432098765
+Noroccidental,Mujeres,12-17 años,Secundaria incompleta (1 a 2 años),115,28.39506172839506
+Noroccidental,Mujeres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),144,27.22117202268431
+Noroccidental,Mujeres,18-34 años,Bachillerato incompleto (1 a 2 años),55,10.396975425330812
+Noroccidental,Mujeres,18-34 años,Estudios Universitarios completos (4 a 5 años),92,17.391304347826086
+Noroccidental,Mujeres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),46,8.695652173913043
+Noroccidental,Mujeres,18-34 años,Estudios de Posgrado (2 a 4 años),5,0.945179584120983
+Noroccidental,Mujeres,18-34 años,No sabe/No contesta,0,0.0
+Noroccidental,Mujeres,18-34 años,Primaria completa (6 años),27,5.103969754253308
+Noroccidental,Mujeres,18-34 años,Primaria incompleta (1 a 5 años),11,2.0793950850661624
+Noroccidental,Mujeres,18-34 años,Secundaria completa o equivalente (3 años),114,21.550094517958414
+Noroccidental,Mujeres,18-34 años,Secundaria incompleta (1 a 2 años),35,6.61625708884688
+Noroccidental,Mujeres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),256,19.984387197501952
+Noroccidental,Mujeres,35-59 años,Bachillerato incompleto (1 a 2 años),124,9.679937548790008
+Noroccidental,Mujeres,35-59 años,Estudios Universitarios completos (4 a 5 años),189,14.754098360655737
+Noroccidental,Mujeres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),57,4.449648711943794
+Noroccidental,Mujeres,35-59 años,Estudios de Posgrado (2 a 4 años),14,1.092896174863388
+Noroccidental,Mujeres,35-59 años,No sabe/No contesta,2,0.156128024980484
+Noroccidental,Mujeres,35-59 años,Primaria completa (6 años),146,11.397345823575332
+Noroccidental,Mujeres,35-59 años,Primaria incompleta (1 a 5 años),54,4.215456674473068
+Noroccidental,Mujeres,35-59 años,Secundaria completa o equivalente (3 años),332,25.917252146760344
+Noroccidental,Mujeres,35-59 años,Secundaria incompleta (1 a 2 años),107,8.352849336455893
+Noroccidental,Mujeres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),54,10.9979633401222
+Noroccidental,Mujeres,60-75 años,Bachillerato incompleto (1 a 2 años),15,3.054989816700611
+Noroccidental,Mujeres,60-75 años,Estudios Universitarios completos (4 a 5 años),62,12.627291242362526
+Noroccidental,Mujeres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),14,2.8513238289205702
+Noroccidental,Mujeres,60-75 años,Estudios de Posgrado (2 a 4 años),6,1.2219959266802443
+Noroccidental,Mujeres,60-75 años,No sabe/No contesta,1,0.20366598778004072
+Noroccidental,Mujeres,60-75 años,Primaria completa (6 años),131,26.680244399185337
+Noroccidental,Mujeres,60-75 años,Primaria incompleta (1 a 5 años),77,15.682281059063136
+Noroccidental,Mujeres,60-75 años,Secundaria completa o equivalente (3 años),97,19.75560081466395
+Noroccidental,Mujeres,60-75 años,Secundaria incompleta (1 a 2 años),34,6.924643584521386
+Nororiental,Hombres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),20,9.569377990430622
+Nororiental,Hombres,12-17 años,Bachillerato incompleto (1 a 2 años),46,22.00956937799043
+Nororiental,Hombres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+Nororiental,Hombres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),3,1.4354066985645932
+Nororiental,Hombres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Nororiental,Hombres,12-17 años,No sabe/No contesta,0,0.0
+Nororiental,Hombres,12-17 años,Primaria completa (6 años),30,14.354066985645932
+Nororiental,Hombres,12-17 años,Primaria incompleta (1 a 5 años),3,1.4354066985645932
+Nororiental,Hombres,12-17 años,Secundaria completa o equivalente (3 años),64,30.62200956937799
+Nororiental,Hombres,12-17 años,Secundaria incompleta (1 a 2 años),43,20.574162679425836
+Nororiental,Hombres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),40,27.027027027027028
+Nororiental,Hombres,18-34 años,Bachillerato incompleto (1 a 2 años),16,10.81081081081081
+Nororiental,Hombres,18-34 años,Estudios Universitarios completos (4 a 5 años),25,16.89189189189189
+Nororiental,Hombres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),20,13.513513513513514
+Nororiental,Hombres,18-34 años,Estudios de Posgrado (2 a 4 años),1,0.6756756756756757
+Nororiental,Hombres,18-34 años,No sabe/No contesta,1,0.6756756756756757
+Nororiental,Hombres,18-34 años,Primaria completa (6 años),3,2.027027027027027
+Nororiental,Hombres,18-34 años,Primaria incompleta (1 a 5 años),2,1.3513513513513513
+Nororiental,Hombres,18-34 años,Secundaria completa o equivalente (3 años),30,20.27027027027027
+Nororiental,Hombres,18-34 años,Secundaria incompleta (1 a 2 años),10,6.756756756756757
+Nororiental,Hombres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),88,23.218997361477573
+Nororiental,Hombres,35-59 años,Bachillerato incompleto (1 a 2 años),22,5.804749340369393
+Nororiental,Hombres,35-59 años,Estudios Universitarios completos (4 a 5 años),89,23.482849604221638
+Nororiental,Hombres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),14,3.6939313984168867
+Nororiental,Hombres,35-59 años,Estudios de Posgrado (2 a 4 años),15,3.95778364116095
+Nororiental,Hombres,35-59 años,No sabe/No contesta,0,0.0
+Nororiental,Hombres,35-59 años,Primaria completa (6 años),40,10.554089709762533
+Nororiental,Hombres,35-59 años,Primaria incompleta (1 a 5 años),4,1.0554089709762533
+Nororiental,Hombres,35-59 años,Secundaria completa o equivalente (3 años),82,21.63588390501319
+Nororiental,Hombres,35-59 años,Secundaria incompleta (1 a 2 años),25,6.596306068601583
+Nororiental,Hombres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),15,9.740259740259742
+Nororiental,Hombres,60-75 años,Bachillerato incompleto (1 a 2 años),6,3.896103896103896
+Nororiental,Hombres,60-75 años,Estudios Universitarios completos (4 a 5 años),28,18.181818181818183
+Nororiental,Hombres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),4,2.5974025974025974
+Nororiental,Hombres,60-75 años,Estudios de Posgrado (2 a 4 años),5,3.2467532467532463
+Nororiental,Hombres,60-75 años,No sabe/No contesta,0,0.0
+Nororiental,Hombres,60-75 años,Primaria completa (6 años),35,22.727272727272727
+Nororiental,Hombres,60-75 años,Primaria incompleta (1 a 5 años),21,13.636363636363635
+Nororiental,Hombres,60-75 años,Secundaria completa o equivalente (3 años),36,23.376623376623375
+Nororiental,Hombres,60-75 años,Secundaria incompleta (1 a 2 años),4,2.5974025974025974
+Nororiental,Mujeres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),18,8.108108108108109
+Nororiental,Mujeres,12-17 años,Bachillerato incompleto (1 a 2 años),50,22.52252252252252
+Nororiental,Mujeres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+Nororiental,Mujeres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),5,2.2522522522522523
+Nororiental,Mujeres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Nororiental,Mujeres,12-17 años,No sabe/No contesta,0,0.0
+Nororiental,Mujeres,12-17 años,Primaria completa (6 años),39,17.56756756756757
+Nororiental,Mujeres,12-17 años,Primaria incompleta (1 a 5 años),4,1.8018018018018018
+Nororiental,Mujeres,12-17 años,Secundaria completa o equivalente (3 años),67,30.180180180180184
+Nororiental,Mujeres,12-17 años,Secundaria incompleta (1 a 2 años),39,17.56756756756757
+Nororiental,Mujeres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),97,27.635327635327634
+Nororiental,Mujeres,18-34 años,Bachillerato incompleto (1 a 2 años),25,7.122507122507122
+Nororiental,Mujeres,18-34 años,Estudios Universitarios completos (4 a 5 años),63,17.94871794871795
+Nororiental,Mujeres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),36,10.256410256410255
+Nororiental,Mujeres,18-34 años,Estudios de Posgrado (2 a 4 años),3,0.8547008547008548
+Nororiental,Mujeres,18-34 años,No sabe/No contesta,0,0.0
+Nororiental,Mujeres,18-34 años,Primaria completa (6 años),21,5.982905982905983
+Nororiental,Mujeres,18-34 años,Primaria incompleta (1 a 5 años),3,0.8547008547008548
+Nororiental,Mujeres,18-34 años,Secundaria completa o equivalente (3 años),91,25.925925925925924
+Nororiental,Mujeres,18-34 años,Secundaria incompleta (1 a 2 años),12,3.418803418803419
+Nororiental,Mujeres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),186,23.969072164948454
+Nororiental,Mujeres,35-59 años,Bachillerato incompleto (1 a 2 años),46,5.927835051546391
+Nororiental,Mujeres,35-59 años,Estudios Universitarios completos (4 a 5 años),110,14.175257731958762
+Nororiental,Mujeres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),28,3.608247422680412
+Nororiental,Mujeres,35-59 años,Estudios de Posgrado (2 a 4 años),25,3.221649484536082
+Nororiental,Mujeres,35-59 años,No sabe/No contesta,0,0.0
+Nororiental,Mujeres,35-59 años,Primaria completa (6 años),76,9.793814432989691
+Nororiental,Mujeres,35-59 años,Primaria incompleta (1 a 5 años),31,3.994845360824742
+Nororiental,Mujeres,35-59 años,Secundaria completa o equivalente (3 años),234,30.15463917525773
+Nororiental,Mujeres,35-59 años,Secundaria incompleta (1 a 2 años),40,5.154639175257731
+Nororiental,Mujeres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),26,9.31899641577061
+Nororiental,Mujeres,60-75 años,Bachillerato incompleto (1 a 2 años),7,2.5089605734767026
+Nororiental,Mujeres,60-75 años,Estudios Universitarios completos (4 a 5 años),23,8.24372759856631
+Nororiental,Mujeres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),5,1.7921146953405016
+Nororiental,Mujeres,60-75 años,Estudios de Posgrado (2 a 4 años),6,2.1505376344086025
+Nororiental,Mujeres,60-75 años,No sabe/No contesta,1,0.35842293906810035
+Nororiental,Mujeres,60-75 años,Primaria completa (6 años),76,27.24014336917563
+Nororiental,Mujeres,60-75 años,Primaria incompleta (1 a 5 años),57,20.43010752688172
+Nororiental,Mujeres,60-75 años,Secundaria completa o equivalente (3 años),59,21.14695340501792
+Nororiental,Mujeres,60-75 años,Secundaria incompleta (1 a 2 años),19,6.810035842293908
+Norte Centro,Hombres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),20,7.633587786259542
+Norte Centro,Hombres,12-17 años,Bachillerato incompleto (1 a 2 años),62,23.66412213740458
+Norte Centro,Hombres,12-17 años,Estudios Universitarios completos (4 a 5 años),1,0.38167938931297707
+Norte Centro,Hombres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),0,0.0
+Norte Centro,Hombres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Norte Centro,Hombres,12-17 años,No sabe/No contesta,0,0.0
+Norte Centro,Hombres,12-17 años,Primaria completa (6 años),46,17.557251908396946
+Norte Centro,Hombres,12-17 años,Primaria incompleta (1 a 5 años),3,1.1450381679389312
+Norte Centro,Hombres,12-17 años,Secundaria completa o equivalente (3 años),59,22.519083969465647
+Norte Centro,Hombres,12-17 años,Secundaria incompleta (1 a 2 años),71,27.099236641221374
+Norte Centro,Hombres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),65,28.26086956521739
+Norte Centro,Hombres,18-34 años,Bachillerato incompleto (1 a 2 años),18,7.82608695652174
+Norte Centro,Hombres,18-34 años,Estudios Universitarios completos (4 a 5 años),36,15.65217391304348
+Norte Centro,Hombres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),29,12.608695652173912
+Norte Centro,Hombres,18-34 años,Estudios de Posgrado (2 a 4 años),4,1.7391304347826086
+Norte Centro,Hombres,18-34 años,No sabe/No contesta,1,0.43478260869565216
+Norte Centro,Hombres,18-34 años,Primaria completa (6 años),16,6.956521739130435
+Norte Centro,Hombres,18-34 años,Primaria incompleta (1 a 5 años),4,1.7391304347826086
+Norte Centro,Hombres,18-34 años,Secundaria completa o equivalente (3 años),46,20.0
+Norte Centro,Hombres,18-34 años,Secundaria incompleta (1 a 2 años),11,4.782608695652174
+Norte Centro,Hombres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),91,18.019801980198018
+Norte Centro,Hombres,35-59 años,Bachillerato incompleto (1 a 2 años),40,7.920792079207921
+Norte Centro,Hombres,35-59 años,Estudios Universitarios completos (4 a 5 años),77,15.247524752475247
+Norte Centro,Hombres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),15,2.9702970297029703
+Norte Centro,Hombres,35-59 años,Estudios de Posgrado (2 a 4 años),15,2.9702970297029703
+Norte Centro,Hombres,35-59 años,No sabe/No contesta,1,0.19801980198019803
+Norte Centro,Hombres,35-59 años,Primaria completa (6 años),85,16.831683168316832
+Norte Centro,Hombres,35-59 años,Primaria incompleta (1 a 5 años),20,3.9603960396039604
+Norte Centro,Hombres,35-59 años,Secundaria completa o equivalente (3 años),122,24.15841584158416
+Norte Centro,Hombres,35-59 años,Secundaria incompleta (1 a 2 años),39,7.7227722772277225
+Norte Centro,Hombres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),19,7.6923076923076925
+Norte Centro,Hombres,60-75 años,Bachillerato incompleto (1 a 2 años),11,4.4534412955465585
+Norte Centro,Hombres,60-75 años,Estudios Universitarios completos (4 a 5 años),33,13.360323886639677
+Norte Centro,Hombres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),10,4.048582995951417
+Norte Centro,Hombres,60-75 años,Estudios de Posgrado (2 a 4 años),7,2.834008097165992
+Norte Centro,Hombres,60-75 años,No sabe/No contesta,2,0.8097165991902834
+Norte Centro,Hombres,60-75 años,Primaria completa (6 años),62,25.101214574898783
+Norte Centro,Hombres,60-75 años,Primaria incompleta (1 a 5 años),50,20.242914979757085
+Norte Centro,Hombres,60-75 años,Secundaria completa o equivalente (3 años),47,19.02834008097166
+Norte Centro,Hombres,60-75 años,Secundaria incompleta (1 a 2 años),6,2.42914979757085
+Norte Centro,Mujeres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),21,8.75
+Norte Centro,Mujeres,12-17 años,Bachillerato incompleto (1 a 2 años),52,21.666666666666668
+Norte Centro,Mujeres,12-17 años,Estudios Universitarios completos (4 a 5 años),1,0.4166666666666667
+Norte Centro,Mujeres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),2,0.8333333333333334
+Norte Centro,Mujeres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Norte Centro,Mujeres,12-17 años,No sabe/No contesta,0,0.0
+Norte Centro,Mujeres,12-17 años,Primaria completa (6 años),36,15.0
+Norte Centro,Mujeres,12-17 años,Primaria incompleta (1 a 5 años),2,0.8333333333333334
+Norte Centro,Mujeres,12-17 años,Secundaria completa o equivalente (3 años),59,24.583333333333332
+Norte Centro,Mujeres,12-17 años,Secundaria incompleta (1 a 2 años),67,27.916666666666668
+Norte Centro,Mujeres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),99,23.85542168674699
+Norte Centro,Mujeres,18-34 años,Bachillerato incompleto (1 a 2 años),35,8.433734939759036
+Norte Centro,Mujeres,18-34 años,Estudios Universitarios completos (4 a 5 años),55,13.253012048192772
+Norte Centro,Mujeres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),39,9.397590361445783
+Norte Centro,Mujeres,18-34 años,Estudios de Posgrado (2 a 4 años),3,0.7228915662650602
+Norte Centro,Mujeres,18-34 años,No sabe/No contesta,0,0.0
+Norte Centro,Mujeres,18-34 años,Primaria completa (6 años),27,6.506024096385541
+Norte Centro,Mujeres,18-34 años,Primaria incompleta (1 a 5 años),6,1.4457831325301205
+Norte Centro,Mujeres,18-34 años,Secundaria completa o equivalente (3 años),132,31.807228915662648
+Norte Centro,Mujeres,18-34 años,Secundaria incompleta (1 a 2 años),19,4.578313253012048
+Norte Centro,Mujeres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),177,18.73015873015873
+Norte Centro,Mujeres,35-59 años,Bachillerato incompleto (1 a 2 años),57,6.031746031746032
+Norte Centro,Mujeres,35-59 años,Estudios Universitarios completos (4 a 5 años),113,11.957671957671957
+Norte Centro,Mujeres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),29,3.068783068783069
+Norte Centro,Mujeres,35-59 años,Estudios de Posgrado (2 a 4 años),18,1.9047619047619049
+Norte Centro,Mujeres,35-59 años,No sabe/No contesta,1,0.10582010582010583
+Norte Centro,Mujeres,35-59 años,Primaria completa (6 años),152,16.084656084656086
+Norte Centro,Mujeres,35-59 años,Primaria incompleta (1 a 5 años),39,4.1269841269841265
+Norte Centro,Mujeres,35-59 años,Secundaria completa o equivalente (3 años),318,33.65079365079365
+Norte Centro,Mujeres,35-59 años,Secundaria incompleta (1 a 2 años),41,4.338624338624339
+Norte Centro,Mujeres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),31,8.539944903581267
+Norte Centro,Mujeres,60-75 años,Bachillerato incompleto (1 a 2 años),12,3.3057851239669422
+Norte Centro,Mujeres,60-75 años,Estudios Universitarios completos (4 a 5 años),18,4.958677685950414
+Norte Centro,Mujeres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),7,1.9283746556473829
+Norte Centro,Mujeres,60-75 años,Estudios de Posgrado (2 a 4 años),2,0.5509641873278237
+Norte Centro,Mujeres,60-75 años,No sabe/No contesta,1,0.27548209366391185
+Norte Centro,Mujeres,60-75 años,Primaria completa (6 años),116,31.955922865013775
+Norte Centro,Mujeres,60-75 años,Primaria incompleta (1 a 5 años),76,20.9366391184573
+Norte Centro,Mujeres,60-75 años,Secundaria completa o equivalente (3 años),84,23.140495867768596
+Norte Centro,Mujeres,60-75 años,Secundaria incompleta (1 a 2 años),16,4.40771349862259
+Sur,Hombres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),34,11.11111111111111
+Sur,Hombres,12-17 años,Bachillerato incompleto (1 a 2 años),70,22.875816993464053
+Sur,Hombres,12-17 años,Estudios Universitarios completos (4 a 5 años),0,0.0
+Sur,Hombres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),0,0.0
+Sur,Hombres,12-17 años,Estudios de Posgrado (2 a 4 años),0,0.0
+Sur,Hombres,12-17 años,No sabe/No contesta,0,0.0
+Sur,Hombres,12-17 años,Primaria completa (6 años),48,15.686274509803921
+Sur,Hombres,12-17 años,Primaria incompleta (1 a 5 años),4,1.3071895424836601
+Sur,Hombres,12-17 años,Secundaria completa o equivalente (3 años),83,27.124183006535947
+Sur,Hombres,12-17 años,Secundaria incompleta (1 a 2 años),67,21.895424836601308
+Sur,Hombres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),94,31.756756756756754
+Sur,Hombres,18-34 años,Bachillerato incompleto (1 a 2 años),16,5.405405405405405
+Sur,Hombres,18-34 años,Estudios Universitarios completos (4 a 5 años),52,17.56756756756757
+Sur,Hombres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),37,12.5
+Sur,Hombres,18-34 años,Estudios de Posgrado (2 a 4 años),6,2.027027027027027
+Sur,Hombres,18-34 años,No sabe/No contesta,0,0.0
+Sur,Hombres,18-34 años,Primaria completa (6 años),21,7.094594594594595
+Sur,Hombres,18-34 años,Primaria incompleta (1 a 5 años),9,3.040540540540541
+Sur,Hombres,18-34 años,Secundaria completa o equivalente (3 años),47,15.878378378378377
+Sur,Hombres,18-34 años,Secundaria incompleta (1 a 2 años),14,4.72972972972973
+Sur,Hombres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),149,24.668874172185433
+Sur,Hombres,35-59 años,Bachillerato incompleto (1 a 2 años),34,5.629139072847682
+Sur,Hombres,35-59 años,Estudios Universitarios completos (4 a 5 años),107,17.715231788079468
+Sur,Hombres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),23,3.80794701986755
+Sur,Hombres,35-59 años,Estudios de Posgrado (2 a 4 años),20,3.3112582781456954
+Sur,Hombres,35-59 años,No sabe/No contesta,2,0.33112582781456956
+Sur,Hombres,35-59 años,Primaria completa (6 años),62,10.264900662251655
+Sur,Hombres,35-59 años,Primaria incompleta (1 a 5 años),40,6.622516556291391
+Sur,Hombres,35-59 años,Secundaria completa o equivalente (3 años),129,21.357615894039736
+Sur,Hombres,35-59 años,Secundaria incompleta (1 a 2 años),38,6.291390728476822
+Sur,Hombres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),30,11.494252873563218
+Sur,Hombres,60-75 años,Bachillerato incompleto (1 a 2 años),7,2.681992337164751
+Sur,Hombres,60-75 años,Estudios Universitarios completos (4 a 5 años),37,14.17624521072797
+Sur,Hombres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),9,3.4482758620689653
+Sur,Hombres,60-75 años,Estudios de Posgrado (2 a 4 años),4,1.532567049808429
+Sur,Hombres,60-75 años,No sabe/No contesta,0,0.0
+Sur,Hombres,60-75 años,Primaria completa (6 años),60,22.988505747126435
+Sur,Hombres,60-75 años,Primaria incompleta (1 a 5 años),52,19.923371647509576
+Sur,Hombres,60-75 años,Secundaria completa o equivalente (3 años),49,18.773946360153257
+Sur,Hombres,60-75 años,Secundaria incompleta (1 a 2 años),13,4.980842911877394
+Sur,Mujeres,12-17 años,Bachillerato completo o equivalente (aprox. 3 años),30,10.452961672473867
+Sur,Mujeres,12-17 años,Bachillerato incompleto (1 a 2 años),54,18.81533101045296
+Sur,Mujeres,12-17 años,Estudios Universitarios completos (4 a 5 años),1,0.34843205574912894
+Sur,Mujeres,12-17 años,Estudios Universitarios incompletos (1 a 3 años),0,0.0
+Sur,Mujeres,12-17 años,Estudios de Posgrado (2 a 4 años),1,0.34843205574912894
+Sur,Mujeres,12-17 años,No sabe/No contesta,1,0.34843205574912894
+Sur,Mujeres,12-17 años,Primaria completa (6 años),59,20.557491289198605
+Sur,Mujeres,12-17 años,Primaria incompleta (1 a 5 años),7,2.4390243902439024
+Sur,Mujeres,12-17 años,Secundaria completa o equivalente (3 años),75,26.132404181184672
+Sur,Mujeres,12-17 años,Secundaria incompleta (1 a 2 años),59,20.557491289198605
+Sur,Mujeres,18-34 años,Bachillerato completo o equivalente (aprox. 3 años),170,28.91156462585034
+Sur,Mujeres,18-34 años,Bachillerato incompleto (1 a 2 años),31,5.272108843537415
+Sur,Mujeres,18-34 años,Estudios Universitarios completos (4 a 5 años),85,14.45578231292517
+Sur,Mujeres,18-34 años,Estudios Universitarios incompletos (1 a 3 años),41,6.972789115646258
+Sur,Mujeres,18-34 años,Estudios de Posgrado (2 a 4 años),8,1.3605442176870748
+Sur,Mujeres,18-34 años,No sabe/No contesta,0,0.0
+Sur,Mujeres,18-34 años,Primaria completa (6 años),54,9.183673469387756
+Sur,Mujeres,18-34 años,Primaria incompleta (1 a 5 años),16,2.7210884353741496
+Sur,Mujeres,18-34 años,Secundaria completa o equivalente (3 años),145,24.65986394557823
+Sur,Mujeres,18-34 años,Secundaria incompleta (1 a 2 años),38,6.462585034013606
+Sur,Mujeres,35-59 años,Bachillerato completo o equivalente (aprox. 3 años),209,20.173745173745175
+Sur,Mujeres,35-59 años,Bachillerato incompleto (1 a 2 años),54,5.212355212355212
+Sur,Mujeres,35-59 años,Estudios Universitarios completos (4 a 5 años),118,11.389961389961389
+Sur,Mujeres,35-59 años,Estudios Universitarios incompletos (1 a 3 años),28,2.7027027027027026
+Sur,Mujeres,35-59 años,Estudios de Posgrado (2 a 4 años),20,1.9305019305019304
+Sur,Mujeres,35-59 años,No sabe/No contesta,1,0.09652509652509653
+Sur,Mujeres,35-59 años,Primaria completa (6 años),146,14.092664092664092
+Sur,Mujeres,35-59 años,Primaria incompleta (1 a 5 años),69,6.660231660231661
+Sur,Mujeres,35-59 años,Secundaria completa o equivalente (3 años),339,32.722007722007724
+Sur,Mujeres,35-59 años,Secundaria incompleta (1 a 2 años),52,5.019305019305019
+Sur,Mujeres,60-75 años,Bachillerato completo o equivalente (aprox. 3 años),37,11.011904761904761
+Sur,Mujeres,60-75 años,Bachillerato incompleto (1 a 2 años),11,3.273809523809524
+Sur,Mujeres,60-75 años,Estudios Universitarios completos (4 a 5 años),23,6.845238095238096
+Sur,Mujeres,60-75 años,Estudios Universitarios incompletos (1 a 3 años),7,2.083333333333333
+Sur,Mujeres,60-75 años,Estudios de Posgrado (2 a 4 años),4,1.1904761904761905
+Sur,Mujeres,60-75 años,No sabe/No contesta,1,0.2976190476190476
+Sur,Mujeres,60-75 años,Primaria completa (6 años),91,27.083333333333332
+Sur,Mujeres,60-75 años,Primaria incompleta (1 a 5 años),78,23.214285714285715
+Sur,Mujeres,60-75 años,Secundaria completa o equivalente (3 años),67,19.940476190476193
+Sur,Mujeres,60-75 años,Secundaria incompleta (1 a 2 años),17,5.059523809523809
